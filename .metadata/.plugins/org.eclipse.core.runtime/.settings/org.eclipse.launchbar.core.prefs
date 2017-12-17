@@ -1,0 +1,15 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:Sender,org.eclipse.launchbar.core.descriptorType.default\:GeneratorSqlmap,org.eclipse.launchbar.core.descriptorType.default\:taotao-content-service,org.eclipse.launchbar.core.descriptorType.default\:taotao-manager,org.eclipse.launchbar.core.descriptorType.default\:taotao-content,org.eclipse.launchbar.core.descriptorType.default\:taotao-search,org.eclipse.launchbar.core.descriptorType.default\:taotao-sso,org.eclipse.launchbar.core.descriptorType.default\:taotao-order,org.eclipse.launchbar.core.descriptorType.default\:taotao-manager-web,org.eclipse.launchbar.core.descriptorType.default\:taotao-portal-web,org.eclipse.launchbar.core.descriptorType.default\:taotao-search-web,org.eclipse.launchbar.core.descriptorType.default\:taotao-item-web,org.eclipse.launchbar.core.descriptorType.default\:taotao-cart-web,org.eclipse.launchbar.core.descriptorType.default\:taotao-order-web,org.eclipse.launchbar.core.descriptorType.default\:taotao-sso-web
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:GeneratorSqlmap/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:GeneratorSqlmap/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Sender/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Sender/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:TestActiveMq.testQueueProducer/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:TestActiveMq.testTopicProducer/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:taotao-content/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:taotao-manager-web/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:taotao-manager/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:taotao-portal-web/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:taotao-search-web/activeLaunchMode=debug

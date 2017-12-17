@@ -1,0 +1,5 @@
+*.svn
+*.svn-base
+**/.svn/**
+**/.svn-base/**
+/target/
